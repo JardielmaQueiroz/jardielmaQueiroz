@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 I'm Jardielma Lima, I'm a student taking advantage of every opportunity to acquire new knowledge and then put it into practice.
 
 <!--
