@@ -6,7 +6,7 @@ I'm Jardielma Lima, I'm a student taking advantage of every opportunity to acqui
 
 Here are some ideas to get you started:-->
 
-- 🔭 I'm currently working at EY;
+- 🔭 I'm currently working at Americanas s.a;
 
 - 🔓 I'm currently unlocking some knowledge about Machine Learning, Python, Azure AML and English, which means that I am a student in the process of becoming a machine learning architect;
 <!--  🌱 I’m currently learning ...
