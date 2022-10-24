@@ -1,22 +1,16 @@
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm Jardielma Lima, I'm a student taking advantage of every opportunity to acquire new knowledge and then put it into practice.
+
+Pode me chamar de Jardi, sou uma dev aproveitando todas as oportunidades para adquirir novos conhecimentos e depois colocá-los em prática.
 
 <!--
 **JardielmaQueiroz/jardielmaQueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
-- 🔭 I'm currently working at Americanas s.a;
+- 🔭 Atualmente trabalho como Front-end na Americanas s.a;
 
-- 🔓 I'm currently unlocking some knowledge about Machine Learning, Python, Azure AML and English, which means that I am a student in the process of becoming a machine learning architect;
-<!--  🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...-->
-- 😍 Love coding, coffee, drawing and Star Wars!
+- 🔓 Estou desbloqueando alguns conhecimentos sobre Machine Learning, Python, Azure AML e inglês;
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jardielma-queiroz-de-lima-12b91b53/)](https://www.linkedin.com/in/jardielma-queiroz-de-lima-12b91b53/)
-<!-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+- 😍 Amo desenvolver, café, filmes de animação e Star Wars!
 
+- 📫 Conecte-se comigo: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jardielma-queiroz-de-lima-12b91b53/)](https://www.linkedin.com/in/jardielma-queiroz-de-lima-12b91b53/)
