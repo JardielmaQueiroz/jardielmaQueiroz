@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm Jardielma Lima, I'm a student taking advantage of every opportunity to acquire new knowledge and then put it into practice.
 
 <!--
