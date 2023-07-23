@@ -7,8 +7,6 @@ Pode me chamar de Jardi, sou uma dev aproveitando todas as oportunidades para ad
 
 Here are some ideas to get you started:-->
 
-- 🔭 Atualmente trabalho como Front-end na Americanas s.a;
-
 - 🔓 Estou desbloqueando alguns conhecimentos sobre Machine Learning, Python, Azure AML e inglês;
 
 - 😍 Amo desenvolver, café, filmes de animação e Star Wars!
