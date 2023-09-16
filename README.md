@@ -1,4 +1,4 @@
-### Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Bem-vinda(o) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Pode me chamar de Jardi, sou uma dev aproveitando todas as oportunidades para adquirir novos conhecimentos e depois colocá-los em prática.
 
