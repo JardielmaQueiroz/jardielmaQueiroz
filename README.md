@@ -11,4 +11,4 @@ Here are some ideas to get you started:-->
 
 - 😍 Amo desenvolver, café, filmes de animação e Star Wars!
 
-- 📫 Conecte-se comigo: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jardielma-queiroz-de-lima/)]([https://www.linkedin.com/in/jardielma-queiroz-de-lima/])
+- 📫 Conecte-se comigo: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jardielma-queiroz-de-lima)]([https://www.linkedin.com/in/jardielma-queiroz-de-lima/])
